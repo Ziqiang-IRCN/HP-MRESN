@@ -23,6 +23,7 @@ Datasets corresponding to file names in `./data`
 * NoisyMGS17: `mackey_glass_t17_normal_noised_mean=0,sigma=0.1.txt`
 * Laser: `santa-fe-laser.txt`
 * NoisyLaser: `laser_normal_noised_mean=0,sigma=0.2.txt`
-Other details about datasets can be found in the paper
+
+Other details about datasets can be found in the paper.
 ## Citiation
 > citiation is coming soon.

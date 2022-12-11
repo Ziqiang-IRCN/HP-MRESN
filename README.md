@@ -1,5 +1,5 @@
 # HP-MRESN
-The released code for "Multi-Reservoir Echo State Networks with Hodrick–Prescott Filter for Nonlinear Time-Series Prediction".
+The source code for "Multi-Reservoir Echo State Networks with Hodrick–Prescott Filter for Nonlinear Time-Series Prediction".
 ## Tested environment
 * python 3.9.7  
 * numpy 1.19.5  

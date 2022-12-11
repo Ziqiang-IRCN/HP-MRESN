@@ -10,7 +10,7 @@ The source code for "Multi-Reservoir Echo State Networks with Hodrick–Prescott
 * pandas 1.3.5  
 * tqdm 4.63.0
 ## Program
-You can use HP-MRESN.py to reproduce the results of HP-MRESN reported in the paper.
+You can use HP-MRESN.py to reproduce the results of HP-MRESN using searched hyperparameters reported in the paper.
 ## Datasets
 Datasets corresponding to file names in `./data`
 * Cardio: `hk_data_v1.mat`

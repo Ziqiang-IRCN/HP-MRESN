@@ -3,9 +3,9 @@ The source code for "Multi-Reservoir Echo State Networks with Hodrick–Prescott
 ## Tested environment
 * python 3.9.7  
 * numpy 1.19.5  
-* pytorch 1.10.2  
+* pytorch 1.10.2
 * scikit-learn 1.0.2  
-* statsmodels 0.13.2  
+* statsmodels 0.12.2  
 * h5py 3.6.0  
 * pandas 1.3.5  
 * tqdm 4.63.0

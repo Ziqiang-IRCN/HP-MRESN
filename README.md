@@ -1,5 +1,5 @@
 # HP-MRESN
-The source code for "Multi-Reservoir Echo State Networks with Hodrick–Prescott Filter for Nonlinear Time-Series Prediction".
+The source code for "<a href="https://doi.org/10.1016/j.asoc.2023.110021" target="_blank">Multi-Reservoir Echo State Networks with Hodrick–Prescott Filter for Nonlinear Time-Series Prediction</a>".
 ## Tested environment
 * python 3.9.7  
 * numpy 1.19.5  
@@ -26,4 +26,11 @@ Datasets corresponding to file names in `./data`
 
 Other details about datasets (such as the length, the partition, and the citation of each dataset) can be found in our paper.
 ## Citiation
-> citiation is coming soon.
+> @article{li2023multi,  
+  title={Multi-Reservoir Echo State Networks with Hodrick--Prescott Filter for nonlinear time-series prediction},  
+  author={Li, Ziqiang and Liu, Yun and Tanaka, Gouhei},  
+  journal={Applied Soft Computing},  
+  pages={110021},  
+  year={2023},  
+  publisher={Elsevier}. 
+}

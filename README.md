@@ -24,7 +24,7 @@ Datasets corresponding to file names in `./data`
 * Laser: `santa-fe-laser.txt`
 * NoisyLaser: `laser_normal_noised_mean=0,sigma=0.2.txt`
 
-Other details about datasets (such as the length, the partition, and the citation of each dataset) can be found in our paper.
+Other details about datasets (such as the length, the partition, and the citation of each dataset) can be found in <a href="https://doi.org/10.1016/j.asoc.2023.110021" target="_blank">our paper</a>.
 ## Citiation
 > @article{li2023multi,  
   title={Multi-Reservoir Echo State Networks with Hodrick--Prescott Filter for nonlinear time-series prediction},  
